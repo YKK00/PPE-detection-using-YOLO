@@ -39,7 +39,6 @@ from utils.torch_utils import select_device, time_sync
 class MainWindow(QTabWidget):
 
     def __init__(self):
-        # 初始化界面
         super().__init__()
         self.setWindowTitle('Target detection system')
         self.resize(1200, 800)

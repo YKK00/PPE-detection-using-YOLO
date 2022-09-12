@@ -23,7 +23,6 @@ conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cpuonly
 ```
 
 
-![image-20210726172454406](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20210726172454406.png)
 
 ### installation for pycocotools
 

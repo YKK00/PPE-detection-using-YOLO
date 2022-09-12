@@ -3,6 +3,8 @@
 * Some pre-trained results are in the folder ./runs/train, Some of them are used for helmet testing, and 
 some are used for helmet plus protective clothing testing.
 * The version required for each package are already in the file requirements.txt
+
+```
 First, we have to create a virtual environment for python3.8, please execute the following operations on the command line:
 
 ```bash
